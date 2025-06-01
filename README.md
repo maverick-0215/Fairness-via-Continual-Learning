@@ -1,2 +1,2 @@
 # Fairness-via-Continual-Learning
-![Poster](Poster.jpg)
+![Poster](FVCL.jpg)
